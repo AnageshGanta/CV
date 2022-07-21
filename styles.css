@@ -1,0 +1,27 @@
+body{
+  background-color: #DFF5F2;
+}
+
+hr{
+  background-color: #DFF5F2;
+  border-style: none;
+  border-top: 6px dotted #41AEA9;
+  height: 2.5px;
+  width: 2.5%;
+}
+
+h1{
+  color: #41AEA9;
+}
+
+h3{
+  color: #41AEA9;
+}
+
+p{
+  color: #003638;
+}
+
+table{
+  color: #003638;
+}
